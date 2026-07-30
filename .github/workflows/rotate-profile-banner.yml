@@ -1,0 +1,79 @@
+name: Rotate profile banner
+
+on:
+  schedule:
+    - cron: "17 0 * * 1"
+      timezone: "Asia/Ho_Chi_Minh"
+    - cron: "17 0 * * 5"
+      timezone: "Asia/Ho_Chi_Minh"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rotate-profile-banner
+  cancel-in-progress: true
+
+jobs:
+  rotate:
+    name: Select weekly banner
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out the default branch
+        uses: actions/checkout@v5
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+
+      - name: Select banner for the current day
+        id: banner
+        shell: bash
+        run: |
+          day="$(TZ=Asia/Ho_Chi_Minh date +%u)"
+
+          if [ "$day" -le 4 ]; then
+            target="dawn-of-hope.gif"
+          else
+            target="peaceful-reflection.gif"
+          fi
+
+          echo "target=$target" >> "$GITHUB_OUTPUT"
+
+      - name: Update the README banner
+        env:
+          TARGET_BANNER: ${{ steps.banner.outputs.target }}
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import os
+          import re
+          from pathlib import Path
+
+          readme = Path("README.md")
+          content = readme.read_text(encoding="utf-8")
+          target = os.environ["TARGET_BANNER"]
+          pattern = r'(?<=src="\./images/)(?:dawn-of-hope|peaceful-reflection)\.gif'
+          updated, replacements = re.subn(pattern, target, content)
+
+          if replacements != 1:
+              raise SystemExit(
+                  f"Expected one rotatable profile banner, found {replacements}."
+              )
+
+          readme.write_text(updated, encoding="utf-8")
+          PY
+
+      - name: Commit the selected banner
+        shell: bash
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "The correct banner is already active."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: rotate profile banner"
+          git push
