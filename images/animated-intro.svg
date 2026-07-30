@@ -8,7 +8,7 @@
     }
   </style>
 
-  <text x="400" y="62" text-anchor="middle" opacity="0">
+  <text x="400" y="62" text-anchor="middle" opacity="1">
     Hi there! &#x1F44B;
     <animate
       attributeName="opacity"

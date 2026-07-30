@@ -43,17 +43,17 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,java,c,cpp,py,ts,js,html,css,nextjs,react,tailwind,prisma,postgres,redis,supabase,azure,docker,githubactions,vercel,git,github,notion,postman,visualstudio,vscode&perline=10&theme=dark" alt="Programming languages, frameworks, databases, cloud platforms, and development tools" />
   <br /><br />
-  <img height="48" src="https://img.shields.io/badge/-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" title="SQL Server" />
-  &nbsp;
-  <img height="48" src="https://img.shields.io/badge/-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" title="Render" />
-  &nbsp;
-  <img height="48" src="https://img.shields.io/badge/-2596BE?style=for-the-badge&logo=doppler&logoColor=white" alt="Doppler" title="Doppler" />
-  &nbsp;
-  <img height="48" src="https://img.shields.io/badge/-1C1C1C?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk" title="Clerk" />
-  &nbsp;
-  <img height="48" src="https://img.shields.io/badge/-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" title="Jira" />
-  &nbsp;
-  <img height="48" src="https://img.shields.io/badge/-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" title="AI Agents" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" title="SQL Server" />
+  &nbsp;&nbsp;
+  <img width="40" height="40" src="https://cdn.simpleicons.org/render/46E3B7" alt="Render" title="Render" />
+  &nbsp;&nbsp;
+  <img width="40" height="40" src="https://avatars.githubusercontent.com/u/34022344?s=80&v=4" alt="Doppler" title="Doppler" />
+  &nbsp;&nbsp;
+  <img width="40" height="40" src="https://cdn.simpleicons.org/clerk/6C47FF" alt="Clerk" title="Clerk" />
+  &nbsp;&nbsp;
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" title="Jira" />
+  &nbsp;&nbsp;
+  <img width="40" height="40" src="https://img.icons8.com/fluency/48/bot.png" alt="AI Agents" title="AI Agents" />
 </p>
 
 ---
@@ -61,10 +61,17 @@
 ## GitHub activity
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=goldhoang&theme=github_dark" alt="GoldHoang's contribution activity graph" />
-  <br />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=goldhoang&theme=github_dark" alt="GoldHoang's GitHub stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=goldhoang&theme=github_dark" alt="GoldHoang's top languages by repository" />
+  <img width="62%" src="https://streak-stats.demolab.com?user=goldhoang&hide_border=true&background=0D1117&stroke=30363D&ring=FAB005&fire=FAB005&currStreakNum=FFFFFF&currStreakLabel=FAB005&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E" alt="Total contributions, current streak, and longest streak" />
+</p>
+
+<p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=goldhoang&theme=github_dark" alt="Stars, commits, pull requests, and issues" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=goldhoang&theme=github_dark" alt="Top languages by repository" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=goldhoang&theme=github_dark" alt="Top languages by commit" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=goldhoang&custom_title=Contribution%20Graph&bg_color=0D1117&color=FAB005&line=8B5CF6&point=FFFFFF&area=true&area_color=FAB005&hide_border=true&radius=8" alt="Daily contribution graph" />
 </p>
 
 ---
@@ -84,6 +91,10 @@
     <img width="46" src="./images/linkedin.gif" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://facebook.com/goldhoang.me" title="Facebook">
+    <img width="46" src="./images/facebook.gif" alt="Facebook" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://goldhoang.dev" title="Portfolio">
     <img width="46" src="./images/globe.gif" alt="Portfolio" />
   </a>
@@ -101,7 +112,7 @@
 
 <p align="center">
   <a href="https://ko-fi.com/goldhoang">
-    <img height="62" src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy me a coffee" />
+    <img height="64" src="https://storage.ko-fi.com/cdn/kofi6.png?v=6" alt="Buy me a coffee" />
   </a>
 </p>
 

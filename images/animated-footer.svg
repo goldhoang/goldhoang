@@ -1,50 +1,57 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="130" viewBox="0 0 1000 130" role="img" aria-label="Building dependable software, one clean layer at a time.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-label="Building dependable software, one clean layer at a time.">
   <defs>
-    <linearGradient id="gold" x1="-100%" y1="0%" x2="0%" y2="0%">
-      <stop offset="0%" stop-color="#9a6700" />
-      <stop offset="38%" stop-color="#fab005" />
-      <stop offset="50%" stop-color="#fff3bf" />
-      <stop offset="62%" stop-color="#fab005" />
-      <stop offset="100%" stop-color="#9a6700" />
-      <animate attributeName="x1" values="-100%;100%" dur="3.2s" repeatCount="indefinite" />
-      <animate attributeName="x2" values="0%;200%" dur="3.2s" repeatCount="indefinite" />
+    <linearGradient id="gold" gradientUnits="userSpaceOnUse" x1="-420" y1="0" x2="20" y2="0">
+      <stop offset="0" stop-color="#b8860b" />
+      <stop offset="0.35" stop-color="#fab005" />
+      <stop offset="0.5" stop-color="#fff8dc" />
+      <stop offset="0.65" stop-color="#fab005" />
+      <stop offset="1" stop-color="#b8860b" />
+      <animate attributeName="x1" values="-420;1000" dur="3.4s" repeatCount="indefinite" />
+      <animate attributeName="x2" values="20;1440" dur="3.4s" repeatCount="indefinite" />
     </linearGradient>
-    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00e5ff">
+
+    <linearGradient id="neon" gradientUnits="userSpaceOnUse" x1="60" y1="0" x2="940" y2="0">
+      <stop offset="0" stop-color="#00e5ff">
         <animate attributeName="stop-color" values="#00e5ff;#8b5cf6;#ff2d95;#fab005;#00e5ff" dur="6s" repeatCount="indefinite" />
       </stop>
-      <stop offset="50%" stop-color="#ff2d95">
+      <stop offset="0.5" stop-color="#ff2d95">
         <animate attributeName="stop-color" values="#ff2d95;#fab005;#00e5ff;#8b5cf6;#ff2d95" dur="6s" repeatCount="indefinite" />
       </stop>
-      <stop offset="100%" stop-color="#fab005">
+      <stop offset="1" stop-color="#fab005">
         <animate attributeName="stop-color" values="#fab005;#00e5ff;#8b5cf6;#ff2d95;#fab005" dur="6s" repeatCount="indefinite" />
       </stop>
     </linearGradient>
-    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
-      <feGaussianBlur stdDeviation="3" result="blur" />
+
+    <filter id="goldGlow" x="-10%" y="-120%" width="120%" height="340%">
+      <feGaussianBlur stdDeviation="2.4" result="blur" />
+      <feFlood flood-color="#fab005" flood-opacity="0.45" result="tint" />
+      <feComposite in="tint" in2="blur" operator="in" result="halo" />
       <feMerge>
-        <feMergeNode in="blur" />
+        <feMergeNode in="halo" />
         <feMergeNode in="SourceGraphic" />
       </feMerge>
     </filter>
-    <filter id="goldGlow" x="-20%" y="-80%" width="140%" height="260%">
-      <feGaussianBlur stdDeviation="1.8" result="blur" />
-      <feFlood flood-color="#fab005" flood-opacity="0.38" result="color" />
-      <feComposite in="color" in2="blur" operator="in" result="glow" />
+
+    <filter id="neonGlow" x="-10%" y="-1200%" width="120%" height="2500%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
       <feMerge>
-        <feMergeNode in="glow" />
+        <feMergeNode in="blur" />
+        <feMergeNode in="blur" />
         <feMergeNode in="SourceGraphic" />
       </feMerge>
     </filter>
   </defs>
 
-  <text x="500" y="42" text-anchor="middle" dominant-baseline="middle" fill="url(#gold)" filter="url(#goldGlow)"
-        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
-        font-size="28" font-weight="700">
+  <text x="500" y="52" text-anchor="middle" fill="url(#gold)" filter="url(#goldGlow)"
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif"
+        font-size="30" font-weight="700">
     Building dependable software, one clean layer at a time.
   </text>
 
-  <line x1="30" y1="112" x2="970" y2="112" stroke="url(#neon)" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="180 24" filter="url(#glow)">
-    <animate attributeName="stroke-dashoffset" from="0" to="-204" dur="3s" repeatCount="indefinite" />
-  </line>
+  <rect x="60" y="112" width="880" height="4" rx="2" fill="url(#neon)" filter="url(#neonGlow)" />
+
+  <rect y="109" width="160" height="10" rx="5" fill="#ffffff" filter="url(#neonGlow)">
+    <animate attributeName="x" values="60;780;60" dur="4.5s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.15;0.85;0.15" dur="4.5s" repeatCount="indefinite" />
+  </rect>
 </svg>
