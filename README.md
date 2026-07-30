@@ -52,13 +52,3 @@ Medical appointment platform powered by **Next.js**, **Prisma**, and **Supabase*
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=goldhoang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldhoang&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
-
----
-
-## ☕ Sponsor / Buy Me a Coffee
-
-<p align="center">
-  <a href="https://ko-fi.com/goldhoang" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support%20my%20work-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Buy Me a Coffee on Ko-fi" />
-  </a>
-</p>
