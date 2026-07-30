@@ -2,6 +2,10 @@
 <h3 align="center">Software Engineer</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&center=true&vCenter=true&width=800&lines=.NET+8+%7C+Next.js+%7C+Cloud+Engineering;Building+scalable+web+platforms+and+AI-powered+products;Always+learning%2C+always+shipping+🚀" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="https://goldhoang.dev">
     <img src="https://img.shields.io/badge/Portfolio-goldhoang.dev-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
@@ -45,6 +49,16 @@ Medical appointment platform powered by **Next.js**, **Prisma**, and **Supabase*
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=goldhoang&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldhoang&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=goldhoang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldhoang&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+---
+
+## ☕ Sponsor / Buy Me a Coffee
+
+<p align="center">
+  <a href="https://ko-fi.com/goldhoang" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support%20my%20work-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Buy Me a Coffee on Ko-fi" />
+  </a>
 </p>
