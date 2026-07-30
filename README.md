@@ -10,26 +10,24 @@
 
 ---
 
-<img align="right" width="46%" src="./images/dawn-of-hope.gif" alt="Animated sunrise over a sunflower garden" />
-
 <p>
   <img src="https://komarev.com/ghpvc/?username=goldhoang&label=Profile%20views&color=D3A24D&style=flat-square" alt="Profile views" />
 </p>
 
 ## About me
 
+<img align="right" width="52%" src="./images/dawn-of-hope.gif" alt="Animated sunrise over a sunflower garden" />
+
 <ul>
-  <li>🎓 Software Engineering graduate from <strong>FPT University Quy Nhon AI Campus</strong> (2021–2026 · GPA: 3.5/4.0)</li>
+  <li>🎓 Software Engineering graduate from <strong>FPT University Quy Nhon AI Campus</strong> (GPA: 8.66/10.0)</li>
   <br />
-  <li>⚙️ Specializing in <strong>C#, .NET, backend architecture, and distributed web systems</strong></li>
-  <br />
-  <li>🧱 Designing maintainable software with <strong>Clean Architecture, explicit boundaries, and well-defined contracts</strong></li>
-  <br />
-  <li>🌐 Delivering end-to-end web applications with <strong>Next.js, React, and TypeScript</strong></li>
+  <li>⚙️ Specializing in <strong>C# & .NET Ecosystem</strong>, RESTful API design, and Clean Architecture.</li>
   <br />
   <li>🤖 Using AI agents to accelerate engineering while retaining full technical ownership</li>
   <br />
-  <li>🤝 Open to <strong>backend and full-stack software engineering opportunities</strong></li>
+  <li>🤝 Open to <strong>Fresher / Junior .NET Backend Developer</strong> positions.</li>
+  <br />
+  <li>📫 Email me: <a href="mailto:goldhoang.work@gmail.com">goldhoang.work@gmail.com</a> or <a href="mailto:huyhoangero@gmail.com">huyhoangero@gmail.com</a></li>
 </ul>
 
 <br clear="right" />
