@@ -43,6 +43,7 @@ jobs:
             --accept "100..=103,200..=299,403,429"
             --exclude "^mailto:"
             --exclude "^tel:"
+            --exclude "^https?://(www\.)?linkedin\.com/"
             "./README.md"
           fail: true
           format: markdown
