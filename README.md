@@ -3,15 +3,10 @@
 </p>
 
 <p align="center">
-  <strong>Backend Software Engineer · .NET · Cloud-native Web Systems</strong>
-</p>
-
-<p align="center">
-  I turn product requirements into dependable software through clear architecture,<br />
-  typed contracts, resilient integrations, and production-minded delivery.
-</p>
-
-<p align="center">
+  <a href="https://goldhoang.dev" title="View my portfolio">
+    <img height="38" src="https://img.shields.io/badge/View_my_portfolio-FAB005?style=for-the-badge&logo=googlechrome&logoColor=111827" alt="View my portfolio" />
+  </a>
+  <br /><br />
   <img src="https://komarev.com/ghpvc/?username=goldhoang&label=Profile%20views&color=D3A24D&style=flat-square" alt="Profile views" />
 </p>
 
@@ -23,10 +18,15 @@
       <h2>About me</h2>
       <ul>
         <li>🎓 Software Engineering graduate from <strong>FPT University Quy Nhon AI Campus</strong> (2021–2026 · GPA: 3.5/4.0)</li>
+        <br />
         <li>⚙️ Specializing in <strong>C#, .NET, backend architecture, and distributed web systems</strong></li>
+        <br />
         <li>🧱 Designing maintainable software with <strong>Clean Architecture, explicit boundaries, and well-defined contracts</strong></li>
+        <br />
         <li>🌐 Delivering end-to-end web applications with <strong>Next.js, React, and TypeScript</strong></li>
+        <br />
         <li>🤖 Using AI agents to accelerate engineering while retaining full technical ownership</li>
+        <br />
         <li>🤝 Open to <strong>backend and full-stack software engineering opportunities</strong></li>
       </ul>
     </td>
@@ -41,19 +41,25 @@
 ## Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,c,cpp,py,ts,js,html,css,nextjs,react,tailwind,prisma,postgres,redis,supabase,azure,docker,githubactions,vercel,git,github,notion,postman,visualstudio,vscode&perline=10&theme=dark" alt="Programming languages, frameworks, databases, cloud platforms, and development tools" />
+  <img height="48" src="https://skillicons.dev/icons?i=cs,dotnet,java,c,cpp,py,ts,js,html,css&theme=dark" alt="C#, .NET, Java, C, C++, Python, TypeScript, JavaScript, HTML, and CSS" />
   <br /><br />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" title="SQL Server" />
+  <img height="48" src="https://skillicons.dev/icons?i=nextjs,react,tailwind,prisma,postgres,redis,supabase&theme=dark" alt="Next.js, React, Tailwind CSS, Prisma, PostgreSQL, Redis, and Supabase" />
   &nbsp;&nbsp;
-  <img width="40" height="40" src="https://cdn.simpleicons.org/render/46E3B7" alt="Render" title="Render" />
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" title="SQL Server" />
   &nbsp;&nbsp;
-  <img width="40" height="40" src="https://avatars.githubusercontent.com/u/34022344?s=80&v=4" alt="Doppler" title="Doppler" />
+  <img width="48" height="48" src="https://cdn.simpleicons.org/clerk/6C47FF" alt="Clerk" title="Clerk" />
+  <br /><br />
+  <img height="48" src="https://skillicons.dev/icons?i=azure,docker,githubactions,vercel&theme=dark" alt="Azure, Docker, GitHub Actions, and Vercel" />
   &nbsp;&nbsp;
-  <img width="40" height="40" src="https://cdn.simpleicons.org/clerk/6C47FF" alt="Clerk" title="Clerk" />
+  <img width="48" height="48" src="https://cdn.simpleicons.org/render/46E3B7" alt="Render" title="Render" />
   &nbsp;&nbsp;
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" title="Jira" />
+  <img width="48" height="48" src="https://avatars.githubusercontent.com/u/34022344?s=80&v=4" alt="Doppler" title="Doppler" />
+  <br /><br />
+  <img height="48" src="https://skillicons.dev/icons?i=git,github,notion,postman,visualstudio,vscode&theme=dark" alt="Git, GitHub, Notion, Postman, Visual Studio, and Visual Studio Code" />
   &nbsp;&nbsp;
-  <img width="40" height="40" src="https://img.icons8.com/fluency/48/bot.png" alt="AI Agents" title="AI Agents" />
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" title="Jira" />
+  &nbsp;&nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/bot.png" alt="AI Agents" title="AI Agents" />
 </p>
 
 ---
