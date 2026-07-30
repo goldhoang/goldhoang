@@ -1,0 +1,49 @@
+name: Check README links
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - README.md
+  pull_request:
+    paths:
+      - README.md
+  schedule:
+    - cron: "37 3 * * 0"
+      timezone: "Asia/Ho_Chi_Minh"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: check-readme-links-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  check:
+    name: Validate local and external links
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v5
+
+      - name: Check README links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --root-dir "${{ github.workspace }}"
+            --verbose
+            --no-progress
+            --max-retries 5
+            --retry-wait-time 2
+            --timeout 30
+            --accept "100..=103,200..=299,403,429"
+            --exclude "^mailto:"
+            --exclude "^tel:"
+            "./README.md"
+          fail: true
+          format: markdown
+          jobSummary: true

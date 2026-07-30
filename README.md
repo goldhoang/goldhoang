@@ -16,7 +16,7 @@
 
 ## About me
 
-<img align="right" width="52%" src="./images/dawn-of-hope.gif" alt="Animated sunrise over a sunflower garden" />
+<img align="right" width="52%" src="./images/dawn-of-hope.gif" alt="Animated pixel-art landscape" />
 
 <ul>
   <li>🎓 Software Engineering graduate from <strong>FPT University Quy Nhon AI Campus</strong> (GPA: 8.66/10.0)</li>
@@ -27,7 +27,7 @@
   <br />
   <li>🤝 Open to <strong>Fresher / Junior .NET Backend Developer</strong> positions.</li>
   <br />
-  <li>📫 Email me: <a href="mailto:goldhoang.work@gmail.com">goldhoang.work@gmail.com</a> or <a href="mailto:huyhoangero@gmail.com">huyhoangero@gmail.com</a></li>
+  <li>📫 Email me: <a href="mailto:goldhoang.work@gmail.com">goldhoang.work@gmail.com</a></li>
 </ul>
 
 <br clear="right" />
@@ -81,7 +81,7 @@
 ## Contact
 
 <p align="center">
-  I'm interested in backend and full-stack roles where reliability, thoughtful architecture, and product impact matter.
+  I'm interested in backend roles where reliability, thoughtful architecture, and product impact matter.
 </p>
 
 <p align="center">
