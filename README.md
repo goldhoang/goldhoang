@@ -1,54 +1,121 @@
-<h1 align="center">Hi, I'm Tran Huy Hoang 👋</h1>
-<h3 align="center">Software Engineer</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&center=true&vCenter=true&width=800&lines=.NET+8+%7C+Next.js+%7C+Cloud+Engineering;Building+scalable+web+platforms+and+AI-powered+products;Always+learning%2C+always+shipping+🚀" alt="Typing SVG" />
+  <img width="800" src="./images/animated-intro.svg" alt="Hi there! I'm Tran Huy Hoang" />
 </p>
 
 <p align="center">
-  <a href="https://goldhoang.dev">
-    <img src="https://img.shields.io/badge/Portfolio-goldhoang.dev-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://api.goldhoang.dev">
-    <img src="https://img.shields.io/badge/API-api.goldhoang.dev-111827?style=for-the-badge&logo=fastapi&logoColor=white" alt="API" />
-  </a>
+  <strong>Backend Software Engineer · .NET · Cloud-native Web Systems</strong>
+</p>
+
+<p align="center">
+  I turn product requirements into dependable software through clear architecture,<br />
+  typed contracts, resilient integrations, and production-minded delivery.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=goldhoang&label=Profile%20views&color=D3A24D&style=flat-square" alt="Profile views" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack
-
-### Backend & Cloud
-![.NET 8](https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 1) GoldHoang Personal Platform
-Production-ready platform built with **.NET 8**, **Next.js**, **Clerk Auth**, and **Gemini AI**.
-
-### 2) AI-Powered SmartHome System
-IoT ecosystem integrating **Hangfire**, **AWS Rekognition**, **STM32**, and **Jetson Nano**.
-
-### 3) Clinic Booking System
-Medical appointment platform powered by **Next.js**, **Prisma**, and **Supabase**.
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <h2>About me</h2>
+      <ul>
+        <li>🎓 Software Engineering graduate from <strong>FPT University Quy Nhon AI Campus</strong> (2021–2026 · GPA: 3.5/4.0)</li>
+        <li>⚙️ Specializing in <strong>C#, .NET, backend architecture, and distributed web systems</strong></li>
+        <li>🧱 Designing maintainable software with <strong>Clean Architecture, explicit boundaries, and well-defined contracts</strong></li>
+        <li>🌐 Delivering end-to-end web applications with <strong>Next.js, React, and TypeScript</strong></li>
+        <li>🤖 Using AI agents to accelerate engineering while retaining full technical ownership</li>
+        <li>🤝 Open to <strong>backend and full-stack software engineering opportunities</strong></li>
+      </ul>
+    </td>
+    <td width="42%" align="center" valign="middle">
+      <img width="360" src="./images/geometric-network.gif" alt="Animated geometric network" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Analytics
+## Technologies & Tools
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=goldhoang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldhoang&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,c,cpp,py,ts,js,html,css,nextjs,react,tailwind,prisma,postgres,redis,supabase,azure,docker,githubactions,vercel,git,github,notion,postman,visualstudio,vscode&perline=10&theme=dark" alt="Programming languages, frameworks, databases, cloud platforms, and development tools" />
+  <br /><br />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" title="SQL Server" />
+  &nbsp;&nbsp;
+  <img width="40" height="40" src="https://cdn.simpleicons.org/render/46E3B7" alt="Render" title="Render" />
+  &nbsp;&nbsp;
+  <img width="40" height="40" src="https://avatars.githubusercontent.com/u/34022344?s=80&v=4" alt="Doppler" title="Doppler" />
+  &nbsp;&nbsp;
+  <img width="40" height="40" src="https://cdn.simpleicons.org/clerk/6C47FF" alt="Clerk" title="Clerk" />
+  &nbsp;&nbsp;
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" title="Jira" />
+  &nbsp;&nbsp;
+  <img width="40" height="40" src="https://img.icons8.com/fluency/48/bot.png" alt="AI Agents" title="AI Agents" />
+</p>
+
+---
+
+## GitHub activity
+
+<p align="center">
+  <img width="62%" src="https://streak-stats.demolab.com?user=goldhoang&hide_border=true&background=0D1117&stroke=30363D&ring=FAB005&fire=FAB005&currStreakNum=FFFFFF&currStreakLabel=FAB005&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E" alt="Total contributions, current streak, and longest streak" />
+</p>
+
+<p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=goldhoang&theme=github_dark" alt="Stars, commits, pull requests, and issues" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=goldhoang&theme=github_dark" alt="Top languages by repository" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=goldhoang&theme=github_dark" alt="Top languages by commit" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=goldhoang&custom_title=Contribution%20Graph&bg_color=0D1117&color=FAB005&line=8B5CF6&point=FFFFFF&area=true&area_color=FAB005&hide_border=true&radius=8" alt="Daily contribution graph" />
+</p>
+
+---
+
+## Contact
+
+<p align="center">
+  I'm interested in backend and full-stack roles where reliability, thoughtful architecture, and product impact matter.
+</p>
+
+<p align="center">
+  <a href="mailto:goldhoang.work@gmail.com" title="Email">
+    <img width="46" src="./images/gmail.gif" alt="Email" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/goldhoang" title="LinkedIn">
+    <img width="46" src="./images/linkedin.gif" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://facebook.com/goldhoang.me" title="Facebook">
+    <img width="46" src="./images/facebook.gif" alt="Facebook" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://goldhoang.dev" title="Portfolio">
+    <img width="46" src="./images/globe.gif" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="tel:+84913201503" title="Phone: 0913 201 503">
+    <img width="46" src="./images/phone.gif" alt="Phone" />
+  </a>
+</p>
+
+## Support me
+
+<p align="center">
+  If you find my work useful, you can support its continued development.
+</p>
+
+<p align="center">
+  <a href="https://ko-fi.com/goldhoang">
+    <img height="64" src="https://storage.ko-fi.com/cdn/kofi6.png?v=6" alt="Buy me a coffee" />
+  </a>
+</p>
+
+<p align="center">
+  <img width="100%" src="./images/animated-footer.svg" alt="Building dependable software, one clean layer at a time." />
 </p>
