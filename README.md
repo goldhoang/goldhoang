@@ -6,35 +6,33 @@
   <a href="https://goldhoang.dev" title="View my portfolio">
     <img height="38" src="https://img.shields.io/badge/View_my_portfolio-FAB005?style=for-the-badge&logo=googlechrome&logoColor=111827" alt="View my portfolio" />
   </a>
-  <br /><br />
-  <img src="https://komarev.com/ghpvc/?username=goldhoang&label=Profile%20views&color=D3A24D&style=flat-square" alt="Profile views" />
 </p>
 
 ---
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
-      <h2>About me</h2>
-      <ul>
-        <li>🎓 Software Engineering graduate from <strong>FPT University Quy Nhon AI Campus</strong> (2021–2026 · GPA: 3.5/4.0)</li>
-        <br />
-        <li>⚙️ Specializing in <strong>C#, .NET, backend architecture, and distributed web systems</strong></li>
-        <br />
-        <li>🧱 Designing maintainable software with <strong>Clean Architecture, explicit boundaries, and well-defined contracts</strong></li>
-        <br />
-        <li>🌐 Delivering end-to-end web applications with <strong>Next.js, React, and TypeScript</strong></li>
-        <br />
-        <li>🤖 Using AI agents to accelerate engineering while retaining full technical ownership</li>
-        <br />
-        <li>🤝 Open to <strong>backend and full-stack software engineering opportunities</strong></li>
-      </ul>
-    </td>
-    <td width="42%" align="center" valign="middle">
-      <img width="360" src="./images/geometric-network.gif" alt="Animated geometric network" />
-    </td>
-  </tr>
-</table>
+<img align="right" width="46%" src="./images/dawn-of-hope.gif" alt="Animated sunrise over a sunflower garden" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=goldhoang&label=Profile%20views&color=D3A24D&style=flat-square" alt="Profile views" />
+</p>
+
+## About me
+
+<ul>
+  <li>🎓 Software Engineering graduate from <strong>FPT University Quy Nhon AI Campus</strong> (2021–2026 · GPA: 3.5/4.0)</li>
+  <br />
+  <li>⚙️ Specializing in <strong>C#, .NET, backend architecture, and distributed web systems</strong></li>
+  <br />
+  <li>🧱 Designing maintainable software with <strong>Clean Architecture, explicit boundaries, and well-defined contracts</strong></li>
+  <br />
+  <li>🌐 Delivering end-to-end web applications with <strong>Next.js, React, and TypeScript</strong></li>
+  <br />
+  <li>🤖 Using AI agents to accelerate engineering while retaining full technical ownership</li>
+  <br />
+  <li>🤝 Open to <strong>backend and full-stack software engineering opportunities</strong></li>
+</ul>
+
+<br clear="right" />
 
 ---
 
