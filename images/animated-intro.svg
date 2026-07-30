@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="100" viewBox="0 0 800 100" role="img" aria-label="Hi there! I'm Tran Huy Hoang">
+  <style>
+    text {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-size: 38px;
+      font-weight: 700;
+      fill: #fab005;
+    }
+  </style>
+
+  <text x="400" y="62" text-anchor="middle" opacity="0">
+    Hi there! &#x1F44B;
+    <animate
+      attributeName="opacity"
+      values="0;1;1;0;0"
+      keyTimes="0;0.08;0.36;0.46;1"
+      dur="8s"
+      repeatCount="indefinite"
+    />
+  </text>
+
+  <text x="400" y="62" text-anchor="middle" opacity="0">
+    I'm Tran Huy Hoang
+    <animate
+      attributeName="opacity"
+      values="0;0;1;1;0"
+      keyTimes="0;0.48;0.58;0.92;1"
+      dur="8s"
+      repeatCount="indefinite"
+    />
+  </text>
+</svg>
