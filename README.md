@@ -16,7 +16,7 @@
 
 ## About me
 
-<img align="right" width="52%" src="./images/dawn-of-hope.gif" alt="Animated pixel-art landscape" />
+<img align="right" width="52%" src="./images/peaceful-reflection.gif" alt="Animated pixel-art landscape" />
 
 <ul>
   <li>🎓 Software Engineering graduate from <strong>FPT University Quy Nhon AI Campus</strong> (GPA: 8.66/10.0)</li>
